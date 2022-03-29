@@ -262,8 +262,9 @@ textarea {
 }
 
 
-#mapid { 
-  height: 500px;
-  width: 500px;
-
+#mapid {
+  height: 100vw;
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
 }

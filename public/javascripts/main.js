@@ -12,11 +12,6 @@ let hygieneThree = L.layerGroup(three)
 let hygieneFour = L.layerGroup(four)
 let hygieneFive = L.layerGroup(five)
 
-
-
-
-
-
 const fetchData = async () => {
     try {
         const options = {
