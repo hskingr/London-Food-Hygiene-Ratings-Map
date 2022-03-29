@@ -1,1 +1,694 @@
-[{"property":{"LocalAuthorityId":88,"LocalAuthorityIdCode":"501","Name":"Barking and Dagenham","FriendlyName":"barking-and-dagenham","Url":"http://www.lbbd.gov.uk/Pages/Home.aspx","SchemeUrl":"","Email":"foodsafety@lbbd.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS501en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1318,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-14T00:30:44.613","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/88"}]}},{"property":{"LocalAuthorityId":89,"LocalAuthorityIdCode":"502","Name":"Barnet","FriendlyName":"barnet","Url":"http://www.barnet.gov.uk/","SchemeUrl":"","Email":"FoodSafety@barnet.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS502en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2581,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:30:51.107","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/89"}]}},{"property":{"LocalAuthorityId":90,"LocalAuthorityIdCode":"503","Name":"Bexley","FriendlyName":"bexley","Url":"http://www.bexley.gov.uk","SchemeUrl":"","Email":"food.safety@bexley.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS503en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1631,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:45.723","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/90"}]}},{"property":{"LocalAuthorityId":91,"LocalAuthorityIdCode":"504","Name":"Brent","FriendlyName":"brent","Url":"http://www.brent.gov.uk/","SchemeUrl":"","Email":"ens.foodsafety@brent.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS504en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2280,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:47.94","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/91"}]}},{"property":{"LocalAuthorityId":92,"LocalAuthorityIdCode":"505","Name":"Bromley","FriendlyName":"bromley","Url":"http://www.bromley.gov.uk","SchemeUrl":"","Email":"food@bromley.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS505en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2445,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:49.52","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/92"}]}},{"property":{"LocalAuthorityId":93,"LocalAuthorityIdCode":"506","Name":"Camden","FriendlyName":"camden","Url":"http://www.camden.gov.uk","SchemeUrl":"","Email":"foodsafety@camden.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS506en-GB.xml","FileNameWelsh":null,"EstablishmentCount":3811,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:52.647","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/93"}]}},{"property":{"LocalAuthorityId":95,"LocalAuthorityIdCode":"508","Name":"City of London Corporation","FriendlyName":"city-of-london-corporation","Url":"http://www.cityoflondon.gov.uk/Corporation/homepage.htm","SchemeUrl":"","Email":"publicprotection@cityoflondon.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS508en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1720,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:30:54.28","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/95"}]}},{"property":{"LocalAuthorityId":94,"LocalAuthorityIdCode":"507","Name":"Croydon","FriendlyName":"croydon","Url":"http://www.croydon.gov.uk","SchemeUrl":"","Email":"food.safety@croydon.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS507en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2729,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:54.85","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/94"}]}},{"property":{"LocalAuthorityId":96,"LocalAuthorityIdCode":"509","Name":"Ealing","FriendlyName":"ealing","Url":"https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety","SchemeUrl":"","Email":"foodsafety@ealing.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS509en-GB.xml","FileNameWelsh":null,"EstablishmentCount":3142,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:57.917","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/96"}]}},{"property":{"LocalAuthorityId":97,"LocalAuthorityIdCode":"510","Name":"Enfield","FriendlyName":"enfield","Url":"http://www.enfield.gov.uk/","SchemeUrl":"","Email":"environmentalhealth@enfield.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS510en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2034,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:30:59.557","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/97"}]}},{"property":{"LocalAuthorityId":98,"LocalAuthorityIdCode":"511","Name":"Greenwich","FriendlyName":"greenwich","Url":"http://www.royalgreenwich.gov.uk","SchemeUrl":"","Email":"health@royalgreenwich.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS511en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2150,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:01.2","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/98"}]}},{"property":{"LocalAuthorityId":99,"LocalAuthorityIdCode":"512","Name":"Hackney","FriendlyName":"hackney","Url":"http://www.hackney.gov.uk/e-env-environmental-health.htm","SchemeUrl":"","Email":"technicalbusinesssupport@hackney.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS512en-GB.xml","FileNameWelsh":null,"EstablishmentCount":3137,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:06.24","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/99"}]}},{"property":{"LocalAuthorityId":100,"LocalAuthorityIdCode":"513","Name":"Hammersmith and Fulham","FriendlyName":"hammersmith-and-fulham","Url":"http://www.lbhf.gov.uk","SchemeUrl":"","Email":"foodandsafety@lbhf.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS513en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1944,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-17T00:30:56.13","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/100"}]}},{"property":{"LocalAuthorityId":101,"LocalAuthorityIdCode":"514","Name":"Haringey","FriendlyName":"haringey","Url":"http://www.haringey.gov.uk","SchemeUrl":"","Email":"frontline@haringey.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS514en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2196,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:10.113","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/101"}]}},{"property":{"LocalAuthorityId":102,"LocalAuthorityIdCode":"515","Name":"Harrow","FriendlyName":"harrow","Url":"http://www.harrow.gov.uk","SchemeUrl":"","Email":"envhealth@harrow.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS515en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1639,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:00.817","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/102"}]}},{"property":{"LocalAuthorityId":103,"LocalAuthorityIdCode":"516","Name":"Havering","FriendlyName":"havering","Url":"http://www.havering.gov.uk","SchemeUrl":"","Email":"environmental.health@havering.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS516en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2047,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:15.003","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/103"}]}},{"property":{"LocalAuthorityId":104,"LocalAuthorityIdCode":"517","Name":"Hillingdon","FriendlyName":"hillingdon","Url":"http://www.hillingdon.gov.uk/foodsafety","SchemeUrl":"","Email":"foodhealthandsafety@hillingdon.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS517en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2219,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:22.543","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/104"}]}},{"property":{"LocalAuthorityId":105,"LocalAuthorityIdCode":"518","Name":"Hounslow","FriendlyName":"hounslow","Url":"http://www.hounslow.gov.uk","SchemeUrl":"","Email":"foodsafety@hounslow.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS518en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1905,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-07-20T00:30:56.79","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/105"}]}},{"property":{"LocalAuthorityId":106,"LocalAuthorityIdCode":"519","Name":"Islington","FriendlyName":"islington","Url":"http://www.islington.gov.uk","SchemeUrl":"","Email":"Commercial.Envh@islington.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS519en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2386,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-03T00:30:59.45","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/106"}]}},{"property":{"LocalAuthorityId":107,"LocalAuthorityIdCode":"520","Name":"Kensington and Chelsea","FriendlyName":"kensington-and-chelsea","Url":"http://www.rbkc.gov.uk","SchemeUrl":"","Email":"food.hygiene@rbkc.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS520en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1866,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:25.477","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/107"}]}},{"property":{"LocalAuthorityId":108,"LocalAuthorityIdCode":"521","Name":"Kingston-Upon-Thames","FriendlyName":"kingston-upon-thames","Url":"http://www.kingston.gov.uk","SchemeUrl":"","Email":"food.safety@kingston.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS521en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1445,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-17T00:30:58.55","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/108"}]}},{"property":{"LocalAuthorityId":109,"LocalAuthorityIdCode":"522","Name":"Lambeth","FriendlyName":"lambeth","Url":"http://www.lambeth.gov.uk","SchemeUrl":"","Email":"foodhealthandsafety@lambeth.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS522en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2679,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:11.18","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/109"}]}},{"property":{"LocalAuthorityId":110,"LocalAuthorityIdCode":"523","Name":"Lewisham","FriendlyName":"lewisham","Url":"http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx","SchemeUrl":"","Email":"david.edwards@lewisham.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS523en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2579,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:17.82","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/110"}]}},{"property":{"LocalAuthorityId":111,"LocalAuthorityIdCode":"524","Name":"Merton","FriendlyName":"merton","Url":"http://www.merton.gov.uk","SchemeUrl":"","Email":"foodandsafety@merton.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS524en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1587,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:23.803","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/111"}]}},{"property":{"LocalAuthorityId":112,"LocalAuthorityIdCode":"525","Name":"Newham","FriendlyName":"newham","Url":"https://www.newham.gov.uk","SchemeUrl":"","Email":"food@newham.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS525en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2518,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:26.833","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/112"}]}},{"property":{"LocalAuthorityId":113,"LocalAuthorityIdCode":"526","Name":"Redbridge","FriendlyName":"redbridge","Url":"http://www.redbridge.gov.uk/","SchemeUrl":"","Email":"themis.skouros@redbridge.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS526en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2038,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:27.057","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/113"}]}},{"property":{"LocalAuthorityId":114,"LocalAuthorityIdCode":"527","Name":"Richmond-Upon-Thames","FriendlyName":"richmond-upon-thames","Url":"http://www.richmond.gov.uk","SchemeUrl":"","Email":"foodandsafety@merton.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS527en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1577,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:39.997","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/114"}]}},{"property":{"LocalAuthorityId":115,"LocalAuthorityIdCode":"528","Name":"Southwark","FriendlyName":"southwark","Url":"http://www.southwark.gov.uk/","SchemeUrl":"","Email":"food@southwark.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS528en-GB.xml","FileNameWelsh":null,"EstablishmentCount":3200,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:42.22","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/115"}]}},{"property":{"LocalAuthorityId":116,"LocalAuthorityIdCode":"529","Name":"Sutton","FriendlyName":"sutton","Url":"http://www.sutton.gov.uk","SchemeUrl":"","Email":"food.safety@sutton.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS529en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1223,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:43.887","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/116"}]}},{"property":{"LocalAuthorityId":117,"LocalAuthorityIdCode":"530","Name":"Tower Hamlets","FriendlyName":"tower-hamlets","Url":"http://www.towerhamlets.gov.uk","SchemeUrl":"","Email":"foodsafety@towerhamlets.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS530en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2949,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:45.617","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/117"}]}},{"property":{"LocalAuthorityId":118,"LocalAuthorityIdCode":"531","Name":"Waltham Forest","FriendlyName":"waltham-forest","Url":"http://www.walthamforest.gov.uk","SchemeUrl":"","Email":"environmentalhealth@walthamforest.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS531en-GB.xml","FileNameWelsh":null,"EstablishmentCount":1863,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:46.963","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/118"}]}},{"property":{"LocalAuthorityId":119,"LocalAuthorityIdCode":"532","Name":"Wandsworth","FriendlyName":"wandsworth","Url":"http://www.wandsworth.gov.uk","SchemeUrl":"","Email":"foodandsafety@merton.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS532en-GB.xml","FileNameWelsh":null,"EstablishmentCount":2821,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-18T00:31:49.78","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/119"}]}},{"property":{"LocalAuthorityId":120,"LocalAuthorityIdCode":"533","Name":"Westminster","FriendlyName":"westminster","Url":"http://www.westminster.gov.uk/","SchemeUrl":"","Email":"foodsafety@westminster.gov.uk","RegionName":"London","FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS533en-GB.xml","FileNameWelsh":null,"EstablishmentCount":4755,"CreationDate":"2010-08-17T15:30:24.87","LastPublishedDate":"2021-08-19T00:31:50.657","SchemeType":1,"links":[{"rel":"self","href":"http://api.ratings.food.gov.uk/authorities/120"}]}}]
+[{
+    "property": {
+        "LocalAuthorityId": 88,
+        "LocalAuthorityIdCode": "501",
+        "Name": "Barking and Dagenham",
+        "FriendlyName": "barking-and-dagenham",
+        "Url": "http://www.lbbd.gov.uk/Pages/Home.aspx",
+        "SchemeUrl": "",
+        "Email": "foodsafety@lbbd.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS501en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1318,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-14T00:30:44.613",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/88"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 89,
+        "LocalAuthorityIdCode": "502",
+        "Name": "Barnet",
+        "FriendlyName": "barnet",
+        "Url": "http://www.barnet.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "FoodSafety@barnet.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS502en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2581,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:30:51.107",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/89"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 90,
+        "LocalAuthorityIdCode": "503",
+        "Name": "Bexley",
+        "FriendlyName": "bexley",
+        "Url": "http://www.bexley.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food.safety@bexley.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS503en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1631,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:45.723",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/90"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 91,
+        "LocalAuthorityIdCode": "504",
+        "Name": "Brent",
+        "FriendlyName": "brent",
+        "Url": "http://www.brent.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "ens.foodsafety@brent.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS504en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2280,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:47.94",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/91"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 92,
+        "LocalAuthorityIdCode": "505",
+        "Name": "Bromley",
+        "FriendlyName": "bromley",
+        "Url": "http://www.bromley.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food@bromley.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS505en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2445,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:49.52",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/92"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 93,
+        "LocalAuthorityIdCode": "506",
+        "Name": "Camden",
+        "FriendlyName": "camden",
+        "Url": "http://www.camden.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodsafety@camden.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS506en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 3811,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:52.647",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/93"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 95,
+        "LocalAuthorityIdCode": "508",
+        "Name": "City of London Corporation",
+        "FriendlyName": "city-of-london-corporation",
+        "Url": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
+        "SchemeUrl": "",
+        "Email": "publicprotection@cityoflondon.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS508en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1720,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:30:54.28",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/95"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 94,
+        "LocalAuthorityIdCode": "507",
+        "Name": "Croydon",
+        "FriendlyName": "croydon",
+        "Url": "http://www.croydon.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food.safety@croydon.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS507en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2729,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:54.85",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/94"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 96,
+        "LocalAuthorityIdCode": "509",
+        "Name": "Ealing",
+        "FriendlyName": "ealing",
+        "Url": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
+        "SchemeUrl": "",
+        "Email": "foodsafety@ealing.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS509en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 3142,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:57.917",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/96"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 97,
+        "LocalAuthorityIdCode": "510",
+        "Name": "Enfield",
+        "FriendlyName": "enfield",
+        "Url": "http://www.enfield.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "environmentalhealth@enfield.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS510en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2034,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:30:59.557",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/97"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 98,
+        "LocalAuthorityIdCode": "511",
+        "Name": "Greenwich",
+        "FriendlyName": "greenwich",
+        "Url": "http://www.royalgreenwich.gov.uk",
+        "SchemeUrl": "",
+        "Email": "health@royalgreenwich.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS511en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2150,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:01.2",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/98"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 99,
+        "LocalAuthorityIdCode": "512",
+        "Name": "Hackney",
+        "FriendlyName": "hackney",
+        "Url": "http://www.hackney.gov.uk/e-env-environmental-health.htm",
+        "SchemeUrl": "",
+        "Email": "technicalbusinesssupport@hackney.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS512en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 3137,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:06.24",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/99"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 100,
+        "LocalAuthorityIdCode": "513",
+        "Name": "Hammersmith and Fulham",
+        "FriendlyName": "hammersmith-and-fulham",
+        "Url": "http://www.lbhf.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodandsafety@lbhf.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS513en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1944,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-17T00:30:56.13",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/100"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 101,
+        "LocalAuthorityIdCode": "514",
+        "Name": "Haringey",
+        "FriendlyName": "haringey",
+        "Url": "http://www.haringey.gov.uk",
+        "SchemeUrl": "",
+        "Email": "frontline@haringey.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS514en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2196,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:10.113",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/101"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 102,
+        "LocalAuthorityIdCode": "515",
+        "Name": "Harrow",
+        "FriendlyName": "harrow",
+        "Url": "http://www.harrow.gov.uk",
+        "SchemeUrl": "",
+        "Email": "envhealth@harrow.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS515en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1639,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:00.817",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/102"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 103,
+        "LocalAuthorityIdCode": "516",
+        "Name": "Havering",
+        "FriendlyName": "havering",
+        "Url": "http://www.havering.gov.uk",
+        "SchemeUrl": "",
+        "Email": "environmental.health@havering.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS516en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2047,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:15.003",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/103"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 104,
+        "LocalAuthorityIdCode": "517",
+        "Name": "Hillingdon",
+        "FriendlyName": "hillingdon",
+        "Url": "http://www.hillingdon.gov.uk/foodsafety",
+        "SchemeUrl": "",
+        "Email": "foodhealthandsafety@hillingdon.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS517en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2219,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:22.543",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/104"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 105,
+        "LocalAuthorityIdCode": "518",
+        "Name": "Hounslow",
+        "FriendlyName": "hounslow",
+        "Url": "http://www.hounslow.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodsafety@hounslow.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS518en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1905,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-07-20T00:30:56.79",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/105"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 106,
+        "LocalAuthorityIdCode": "519",
+        "Name": "Islington",
+        "FriendlyName": "islington",
+        "Url": "http://www.islington.gov.uk",
+        "SchemeUrl": "",
+        "Email": "Commercial.Envh@islington.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS519en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2386,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-03T00:30:59.45",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/106"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 107,
+        "LocalAuthorityIdCode": "520",
+        "Name": "Kensington and Chelsea",
+        "FriendlyName": "kensington-and-chelsea",
+        "Url": "http://www.rbkc.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food.hygiene@rbkc.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS520en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1866,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:25.477",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/107"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 108,
+        "LocalAuthorityIdCode": "521",
+        "Name": "Kingston-Upon-Thames",
+        "FriendlyName": "kingston-upon-thames",
+        "Url": "http://www.kingston.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food.safety@kingston.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS521en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1445,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-17T00:30:58.55",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/108"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 109,
+        "LocalAuthorityIdCode": "522",
+        "Name": "Lambeth",
+        "FriendlyName": "lambeth",
+        "Url": "http://www.lambeth.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodhealthandsafety@lambeth.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS522en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2679,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:11.18",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/109"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 110,
+        "LocalAuthorityIdCode": "523",
+        "Name": "Lewisham",
+        "FriendlyName": "lewisham",
+        "Url": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
+        "SchemeUrl": "",
+        "Email": "david.edwards@lewisham.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS523en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2579,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:17.82",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/110"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 111,
+        "LocalAuthorityIdCode": "524",
+        "Name": "Merton",
+        "FriendlyName": "merton",
+        "Url": "http://www.merton.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodandsafety@merton.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS524en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1587,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:23.803",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/111"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 112,
+        "LocalAuthorityIdCode": "525",
+        "Name": "Newham",
+        "FriendlyName": "newham",
+        "Url": "https://www.newham.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food@newham.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS525en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2518,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:26.833",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/112"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 113,
+        "LocalAuthorityIdCode": "526",
+        "Name": "Redbridge",
+        "FriendlyName": "redbridge",
+        "Url": "http://www.redbridge.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "themis.skouros@redbridge.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS526en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2038,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:27.057",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/113"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 114,
+        "LocalAuthorityIdCode": "527",
+        "Name": "Richmond-Upon-Thames",
+        "FriendlyName": "richmond-upon-thames",
+        "Url": "http://www.richmond.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodandsafety@merton.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS527en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1577,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:39.997",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/114"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 115,
+        "LocalAuthorityIdCode": "528",
+        "Name": "Southwark",
+        "FriendlyName": "southwark",
+        "Url": "http://www.southwark.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "food@southwark.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS528en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 3200,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:42.22",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/115"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 116,
+        "LocalAuthorityIdCode": "529",
+        "Name": "Sutton",
+        "FriendlyName": "sutton",
+        "Url": "http://www.sutton.gov.uk",
+        "SchemeUrl": "",
+        "Email": "food.safety@sutton.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS529en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1223,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:43.887",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/116"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 117,
+        "LocalAuthorityIdCode": "530",
+        "Name": "Tower Hamlets",
+        "FriendlyName": "tower-hamlets",
+        "Url": "http://www.towerhamlets.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodsafety@towerhamlets.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS530en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2949,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:45.617",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/117"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 118,
+        "LocalAuthorityIdCode": "531",
+        "Name": "Waltham Forest",
+        "FriendlyName": "waltham-forest",
+        "Url": "http://www.walthamforest.gov.uk",
+        "SchemeUrl": "",
+        "Email": "environmentalhealth@walthamforest.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS531en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 1863,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:46.963",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/118"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 119,
+        "LocalAuthorityIdCode": "532",
+        "Name": "Wandsworth",
+        "FriendlyName": "wandsworth",
+        "Url": "http://www.wandsworth.gov.uk",
+        "SchemeUrl": "",
+        "Email": "foodandsafety@merton.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS532en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 2821,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-18T00:31:49.78",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/119"
+        }]
+    }
+}, {
+    "property": {
+        "LocalAuthorityId": 120,
+        "LocalAuthorityIdCode": "533",
+        "Name": "Westminster",
+        "FriendlyName": "westminster",
+        "Url": "http://www.westminster.gov.uk/",
+        "SchemeUrl": "",
+        "Email": "foodsafety@westminster.gov.uk",
+        "RegionName": "London",
+        "FileName": "http://ratings.food.gov.uk/OpenDataFiles/FHRS533en-GB.xml",
+        "FileNameWelsh": null,
+        "EstablishmentCount": 4755,
+        "CreationDate": "2010-08-17T15:30:24.87",
+        "LastPublishedDate": "2021-08-19T00:31:50.657",
+        "SchemeType": 1,
+        "links": [{
+            "rel": "self",
+            "href": "http://api.ratings.food.gov.uk/authorities/120"
+        }]
+    }
+}]

@@ -15,7 +15,6 @@ router.get('/api', async (req, res) => {
 router.get('/apiOps', async (req, res) => {
   console.log('I received a GET request for data')
   try {
-    
     console.log(req.query.rating)
     const data = await Restaurant.find({"RatingValue": req.query.rating})
     res.send(data)
@@ -23,6 +22,16 @@ router.get('/apiOps', async (req, res) => {
     console.log(error)
   }
 })
+
+router.get('/mapBoxApi', async (req, res) => {
+  try {
+    res.send(process.env.MAPBOX_ACCESSTOKEN)
+  } catch (error) {
+    console.log(error)
+  }
+
+})
+
 
 
 

@@ -11,7 +11,7 @@ let authorityFileUrls = []
 
 
 const main = async () => {
-    // getData()
+    await getData()
     const data = readFileJSON()
     return data
 }
@@ -29,21 +29,15 @@ const getData = async () => {
 
         // const londonAuthorities = await (getLondonAuthorities())
         // await writeFileJson(londonAuthorities, 'londonAuthorities.json')
-
-
-        // const listOfLondonAuthorityFiles = await getLondonAuthorityFiles(londonAuthorities)
         // const listOfEstablishmentsFromAuthorities = await getEstablishmentsFromAuthorities(londonAuthorities)
 
-        const dataFiles = await fs.readdir('./data/authorityData/')
-        for (x of dataFiles) {     
-            await fillRestaurantDatabase(await readFileJson(`./data/authorityData/${x}`))
-        }
-
-        
-
-        //TESTING LOOP GRAB ESTABLISHMENTS BY LOCAL AUTHORITY ID 
+        // const dataFiles = await fs.readdir('./data/authorityData/')
+        // for (x of dataFiles) {
+        //     await fillRestaurantDatabase(await readFileJson(`./data/authorityData/${x}`))
+        // }
 
 
+        //TESTING LOOP GRAB ESTABLISHMENTS BY LOCAL AUTHORITY ID
 
         // let data = []
 
@@ -186,7 +180,7 @@ const fillRestaurantDatabase = async (data) => {
             //testing to see if document exists
             try {
                 const restaurantDoc = await Restaurant.findOne({
-                    FHRSID : restaurant.FHRSID 
+                    FHRSID : restaurant.FHRSID
                 })
                 if (restaurantDoc) {
                     // console.log('Document Exists...Skipping')
@@ -239,7 +233,7 @@ const formatObject = async (item) => {
     } catch (error) {
         console.log(error)
     }
-    
+
 }
 
 const checkIfNull = (item) => {
@@ -249,7 +243,7 @@ const checkIfNull = (item) => {
         }
         return item
     } catch (e) {
-        
+
     }
 
 }
@@ -302,7 +296,7 @@ const fetchReverseGeocode = async (lat, lng) => {
     try {
         // console.log(`lat here ${lat}`)
         // console.log(`lng here ${lng}`)
-        let accessToken = 'pk.4f2cf33c38a8980e70ace9cfd0c6d926'
+        let accessToken = process.env.LOCATIONIQ_ACCESSTOKEN
         const options = {
             method: 'GET',
             namedetails: 1
@@ -319,4 +313,3 @@ const fetchReverseGeocode = async (lat, lng) => {
 }
 
 exports.getData = getData
-// exports.readFileJSON = readFileJSON
